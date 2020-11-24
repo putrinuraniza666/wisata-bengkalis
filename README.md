@@ -1,4 +1,4 @@
-# bengkalis_flutter
+# bengkalis_flutter [Putri Nuraniza 6304181129]
 Aplikasi ini adalah project sederhana yang dibuat oleh Putri Nuraniza Untuk ujian praktikum aplikasi mobile 1
 aplikasi ini adalah aplikasi Wisata bengkalis tetapi memakai api wisata kota purwakarta
 
